@@ -1,10 +1,10 @@
-import Navbar from "./components/navbar/Navbar";
+import Nav from "./components/nav/Nav";
 import './app.scss';
 
 function App() {
   return (
     <div className="app">
-      <Navbar/>
+      <Nav/>
       <div className="sections">
 
       </div>
